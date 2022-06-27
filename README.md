@@ -1,6 +1,6 @@
 # Sobre mim
 - 👋 Hi, I’m @gustavodelovat
-- Meu email de contato é:introsfodas269@gmail.com
+- Meu email de contato é:[email](introsfodas269@gmail.com)
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
